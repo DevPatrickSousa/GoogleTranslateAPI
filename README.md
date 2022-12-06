@@ -1,7 +1,7 @@
 # GoogleTranslateAPI
 Testing with the "Google Translate API"
 
-just write the following steps:
+just follow the next steps:
 
 <ul>
 <li>open terminal
